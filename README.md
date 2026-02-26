@@ -2,6 +2,6 @@
 
 #  I'm a Computer Science student.
 
-# Contact Me
+# Contact Information
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/shegofa-ahmadi/)
 
